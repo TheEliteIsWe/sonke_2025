@@ -29,3 +29,6 @@
     - Encrypt the data through transfer over the internet and at storage, only accessible
       via authorization.
 
+    - We'll call the project BLINDDATE
+
+
