@@ -1,0 +1,39 @@
+
+Project Structure
+
+root@c0e9cbdbe47f:/sonke_2025# tree blinddate/
+blinddate/
+|-- README.md
+|-- pom.xml
+`-- src
+    |-- main
+    |   `-- java
+    |       `-- secret
+    |           `-- credible
+    |               `-- informantOrwhistleblower
+    |                   `-- app
+    |                       |-- Application.java
+    |                       |-- Dockerfile
+    |                       |-- MainController.java
+    |                       |-- Report.java
+    |                       |-- ReportRepository.java
+    |                       |-- ReportService.java
+    |                       |-- SecurityConfig.java
+    |                       |-- application.properties
+    |                       |-- dashboard.html
+    |                       |-- index.html
+    |                       |-- inform.html
+    |                       |-- login.html
+    |                       |-- report-detail.html
+    |                       |-- success.html
+    |                       `-- whistleblow.html
+    `-- test
+        `-- java
+            `-- secret
+                `-- credible
+                    `-- informantOrWhistleblower
+                        `-- app
+
+14 directories, 17 files
+root@c0e9cbdbe47f:/sonke_2025# 
+
